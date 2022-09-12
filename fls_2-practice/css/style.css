@@ -66,3 +66,32 @@ body {
     max-width: 846px;
     margin: 10px auto;
 }
+
+.element__white {
+    padding: 25px;
+    max-width: 350px;
+    max-height: 350px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+.btn {
+    background-color: orange;
+    padding: 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border-radius: 15px;
+    color: white;
+}
