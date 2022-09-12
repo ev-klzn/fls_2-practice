@@ -69,11 +69,12 @@ body {
 
 .element__white {
     padding: 25px;
-    max-width: 350px;
-    max-height: 350px;
+    width: 350px;
+    height: 350px;
     background-color: whitesmoke;
     border-radius: 15px;
     text-align: center;
+    margin-bottom: 50px;
 
 }
 
@@ -95,3 +96,45 @@ p {
     border-radius: 15px;
     color: white;
 }
+
+.element__black {
+    padding: 25px;
+    width: 350px;
+    height: 350px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 50px;
+    background-color: rgb(77, 77, 77);
+    font-size: 18px;
+}
+
+.line {
+    border: 2px solid green;
+    display: inline-block;
+    text-align: start;
+    margin: 35px 0;
+}
+
+.text__op {
+    opacity: 50%;
+}
+
+.card {
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.img {
+    max-width: 100%;
+
+}
+
+.about {}
+
+.text {}
+
+.star {}
+
+.button {}
